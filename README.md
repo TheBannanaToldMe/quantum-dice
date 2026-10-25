@@ -30,4 +30,4 @@ Troubleshooting:
 This runs on a simulator, not a real quantum computer.
 
 ## AI disclosure
-I used Claude to explain certain concepts and help fix errors. I wrote the code myself minus the dice animation.
+I used Claude to explain certain concepts and help fix errors, other than that the code is written almost entirely by myself minus the dice animation at the bottom of the page.
