@@ -1,0 +1,5 @@
+qiskit
+qiskit-aer
+streamlit>=1.50
+matplotlib
+pylatexenc
